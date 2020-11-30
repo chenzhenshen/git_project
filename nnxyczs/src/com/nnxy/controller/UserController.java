@@ -7,5 +7,6 @@ public class UserController {
 	private String love;
 	private int id;
 	
+	
 
 }
