@@ -6,6 +6,9 @@ public class UserController {
 	private int sex;
 	private String love;
 	private int id;
+        public void setId(int id){
+		this.id=id;
+	}
 	
 	
 
